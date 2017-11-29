@@ -1,5 +1,5 @@
 <script>
 
-document.write('REBASEMENT TIME')
+document.write('ITS REBASEMENT TIME')
 
 </script>
